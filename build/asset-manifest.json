@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/board-game-rules/static/css/main.e7311415.css",
-    "main.js": "/board-game-rules/static/js/main.cd8abb61.js",
+    "main.js": "/board-game-rules/static/js/main.3f34a8d7.js",
     "static/js/453.160aa6e2.chunk.js": "/board-game-rules/static/js/453.160aa6e2.chunk.js",
     "index.html": "/board-game-rules/index.html",
     "main.e7311415.css.map": "/board-game-rules/static/css/main.e7311415.css.map",
-    "main.cd8abb61.js.map": "/board-game-rules/static/js/main.cd8abb61.js.map",
+    "main.3f34a8d7.js.map": "/board-game-rules/static/js/main.3f34a8d7.js.map",
     "453.160aa6e2.chunk.js.map": "/board-game-rules/static/js/453.160aa6e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7311415.css",
-    "static/js/main.cd8abb61.js"
+    "static/js/main.3f34a8d7.js"
   ]
 }

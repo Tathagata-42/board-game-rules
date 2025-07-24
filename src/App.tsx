@@ -5,7 +5,7 @@ import GameDetails from "./Pages/GameDetails";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/board-game-rules">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
